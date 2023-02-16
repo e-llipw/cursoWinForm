@@ -1,0 +1,11 @@
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\bin\Debug\primeiroProgramaWindows.exe.config
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\bin\Debug\primeiroProgramaWindows.exe
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\bin\Debug\primeiroProgramaWindows.pdb
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.csproj.AssemblyReference.cache
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.csproj.SuggestedBindingRedirects.cache
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.Properties.Resources.resources
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.csproj.GenerateResource.cache
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.csproj.CoreCompileInputs.cache
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.exe
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.pdb
+E:\Cursos\cursoWinForm\primeiroProgramaWindows\primeiroProgramaWindows\obj\Debug\primeiroProgramaWindows.Form1.resources

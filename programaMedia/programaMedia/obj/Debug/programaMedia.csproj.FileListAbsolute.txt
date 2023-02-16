@@ -1,0 +1,11 @@
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\bin\Debug\programaMedia.exe.config
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\bin\Debug\programaMedia.exe
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\bin\Debug\programaMedia.pdb
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.csproj.AssemblyReference.cache
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.csproj.SuggestedBindingRedirects.cache
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.Form1.resources
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.Properties.Resources.resources
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.csproj.GenerateResource.cache
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.csproj.CoreCompileInputs.cache
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.exe
+E:\Cursos\cursoWinForm\programaMedia\programaMedia\obj\Debug\programaMedia.pdb
